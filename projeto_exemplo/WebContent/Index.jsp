@@ -10,6 +10,7 @@
 <b>
 	insere a linha 1 - configuracao C0
 	insere a linha 2 - configuracao c1
+	insere a linha 3 - configuracao C2
 </b>
 </body>
 </html>
